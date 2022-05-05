@@ -4,7 +4,7 @@
 
 ## Estamos desenvolvendo um jogo de Pong pelo Scratch
 
-[link] (https://scratch.mit.edu/search/projects?q=smijtink)
+[link](https://scratch.mit.edu/search/projects?q=smijtink)
 
 
 
